@@ -1,0 +1,55 @@
+h1{
+    font-size: 60px;
+    border: none;
+    font-family: 'Dancing Script', cursive;
+    color:black;
+    text-decoration: underline;
+}
+
+body {
+    background-color:  #EBF5FB;
+  }
+
+  h3{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  h4{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  div{
+    border: 2px solid   #020202;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: transparent;
+    color: white;
+    font-size: 100px;
+  }
+
+  .fa-twitter {
+    background: transparent;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: transparent;
+    color: white;
+  }
